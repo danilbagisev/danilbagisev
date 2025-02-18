@@ -29,4 +29,6 @@
 
 - **Email:** danilbagisev472@gmail.com
 - **Telegram:** @n1_3ro
+- **Discord:** n13ro
+
 ---
